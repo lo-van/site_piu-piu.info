@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /sections/*
+Allow: /pages/*
+Allow: /materials/*
+Allow: /archive/*
+Allow: /rss/*
+Disallow: /links
